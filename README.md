@@ -1,16 +1,111 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Ayush Kandpal</h1>
+<h3 align="center">Java Backend Developer | Fresher | India 🇮🇳</h3>
 
-<!--
-**ANKURGIT25062006/ANKURGIT25062006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 👨‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Computer Science Student 
+- 💻 Passionate about Java & Backend Development  
+- 🌱 Currently learning **Spring Boot & Microservices**  
+- 📌 Looking for **Entry-Level / Fresher Java Developer roles**  
+- 🚀 Solving DSA problems on LeetCode 
+
+---
+
+## 🤝 Connect with Me
+
+<p align="left">
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/ayush-kandpal-70172a29b" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" height="35"/>
+  </a>
+
+  <!-- LeetCode -->
+  <a href="https://leetcode.com/u/ayushxd/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="35"/>
+  </a>
+</p>
+
+
+---
+
+## 💻 Tech Stack
+
+<img src="https://skillicons.dev/icons?i=java,spring,hibernate,mysql,git,maven,html,css,js&theme=dark" />
+
+**Frameworks & Concepts:**  
+Spring Boot • Spring MVC • JPA • REST API • Spring Security
+
+---
+
+## 📂 Projects
+
+### 🔹 Word Predictor (NLP Project)
+🔗 https://github.com/ayushx07-web/Word-Predictor  
+
+- Built a machine learning model to predict next words
+- Used NLP techniques for text preprocessing
+- Useful for autocomplete systems
+
+**Tech:** Python, NLP, ML, Pandas, NumPy
+
+---
+
+### 🔹 AutoCorrect Model (NLP Project)
+🔗 https://github.com/ayushx07-web/AutoCorrect-Model  
+
+- Developed an autocorrect system for spelling correction
+- Implemented text similarity and word matching
+- Improves typing accuracy
+
+**Tech:** Python, NLP, Machine Learning
+
+---
+
+### 🔹 E-Commerce Backend API(SpringBoot)
+🔗 https://github.com/yourusername/ecommerce-backend-api
+
+A production-ready RESTful API backend system built with Spring Boot, featuring comprehensive e-commerce functionality including user authentication, product management, shopping cart operations, and order processing.
+
+Key Features:
+- JWT token-based authentication with Spring Security
+- Role-Based Access Control (RBAC) for Admin and Customer roles
+- Shopping cart with real-time calculations
+- Order processing with automatic stock management
+- 15+ RESTful API endpoints
+- 6 normalized database tables with JPA/Hibernate
+- Global exception handling and input validation
+- DTO pattern for clean API responses
+
+---
+
+
+
+### 🔹 DSA Practice
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-ayushxd-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/ayushxd/)
+
+- Solved 170+ Problems on LeetCode  
+- Arrays, Strings, LinkedList, Trees,Sliding Window,Recursion... 
+
+ 
+
+
+---
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=ayushx07-web&theme=dark&show_icons=true)
+![](https://nirzak-streak-stats.vercel.app/?user=ayushx07-web&theme=dark)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushx07-web&layout=compact&theme=dark)
+
+---
+
+## ✍️ Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?theme=dark)
+
+---
+
+⭐ From [Ayush Kandpal](https://github.com/ayushx07-web)
