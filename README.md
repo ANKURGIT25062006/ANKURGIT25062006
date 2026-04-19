@@ -1,104 +1,81 @@
-<h1 align="center">Hi 👋, I'm Ayush Kandpal</h1>
-<h3 align="center">Java Backend Developer | Fresher | India 🇮🇳</h3>
+<h1 align="center">Hi 👋, I'm Ankur Kumar Mishra</h1>
+<h3 align="center">Computer Science Student | Aspiring Software Developer | India 🇮🇳</h3>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🎓 Computer Science Student 
-- 💻 Passionate about Java & Backend Development  
-- 🌱 Currently learning **Spring Boot & Microservices**  
-- 📌 Looking for **Entry-Level / Fresher Java Developer roles**  
-- 🚀 Solving DSA problems on LeetCode 
+- 🎓 Pursuing B.Tech in Computer Science & Engineering at DIT University (2023–2027)  
+- 💻 Passionate about Programming, Software Development & Problem Solving  
+- 🌱 Currently learning **Java, Python, Data Structures & Algorithms**  
+- 📌 Looking for **Internships / Entry-Level Developer Roles**  
+- 🚀 Solving coding problems daily to improve my skills  
 
 ---
 
 ## 🤝 Connect with Me
 
 <p align="left">
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/ayush-kandpal-70172a29b" target="_blank">
+  <a href="https://www.linkedin.com/in/ankur-kumar-mishra-075b16286/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" height="35"/>
   </a>
 
-  <!-- LeetCode -->
-  <a href="https://leetcode.com/u/ayushxd/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="35"/>
+  <a href="mailto:ankur13189@gmail.com" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" height="35"/>
+  </a>
+
+  <a href="https://github.com/ANKURGIT25062006" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" height="35"/>
   </a>
 </p>
-
 
 ---
 
 ## 💻 Tech Stack
 
-<img src="https://skillicons.dev/icons?i=java,spring,hibernate,mysql,git,maven,html,css,js&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java,python,c,mysql,git,github,html,css&theme=dark" />
 
-**Frameworks & Concepts:**  
-Spring Boot • Spring MVC • JPA • REST API • Spring Security
+**Languages & Concepts:**  
+Java • Python • C • OOP • DBMS • SQL • DSA • Problem Solving
 
 ---
 
 ## 📂 Projects
 
-### 🔹 Word Predictor (NLP Project)
-🔗 https://github.com/ayushx07-web/Word-Predictor  
+### 🔹 Property Rental Management System
 
-- Built a machine learning model to predict next words
-- Used NLP techniques for text preprocessing
-- Useful for autocomplete systems
+- Built a rental property management system for managing tenants and properties  
+- Features property listing, tenant records, rent tracking & admin panel  
+- Improved management efficiency and user experience  
 
-**Tech:** Python, NLP, ML, Pandas, NumPy
-
----
-
-### 🔹 AutoCorrect Model (NLP Project)
-🔗 https://github.com/ayushx07-web/AutoCorrect-Model  
-
-- Developed an autocorrect system for spelling correction
-- Implemented text similarity and word matching
-- Improves typing accuracy
-
-**Tech:** Python, NLP, Machine Learning
+**Tech:** Java, MySQL, HTML, CSS
 
 ---
 
-### 🔹 E-Commerce Backend API(SpringBoot)
-🔗 https://github.com/yourusername/ecommerce-backend-api
+### 🔹 Robotics / Automation Project
 
-A production-ready RESTful API backend system built with Spring Boot, featuring comprehensive e-commerce functionality including user authentication, product management, shopping cart operations, and order processing.
+- Developed an automation-based academic project  
+- Integrated software with hardware components  
+- Focused on practical problem-solving using sensors/devices  
 
-Key Features:
-- JWT token-based authentication with Spring Security
-- Role-Based Access Control (RBAC) for Admin and Customer roles
-- Shopping cart with real-time calculations
-- Order processing with automatic stock management
-- 15+ RESTful API endpoints
-- 6 normalized database tables with JPA/Hibernate
-- Global exception handling and input validation
-- DTO pattern for clean API responses
+**Tech:** Python, IoT, Sensors
 
 ---
-
-
 
 ### 🔹 DSA Practice
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-ayushxd-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/ayushxd/)
-
-- Solved 170+ Problems on LeetCode  
-- Arrays, Strings, LinkedList, Trees,Sliding Window,Recursion... 
-
- 
-
+- Regularly solve coding problems to improve logic building  
+- Practicing Arrays, Strings, LinkedList, Trees, Recursion  
 
 ---
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=ayushx07-web&theme=dark&show_icons=true)
-![](https://nirzak-streak-stats.vercel.app/?user=ayushx07-web&theme=dark)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushx07-web&layout=compact&theme=dark)
+![](https://github-readme-stats.vercel.app/api?username=ANKURGIT25062006&theme=dark&show_icons=true)
+
+![](https://nirzak-streak-stats.vercel.app/?user=ANKURGIT25062006&theme=dark)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ANKURGIT25062006&layout=compact&theme=dark)
 
 ---
 
@@ -108,4 +85,4 @@ Key Features:
 
 ---
 
-⭐ From [Ayush Kandpal](https://github.com/ayushx07-web)
+⭐ From [Ankur Kumar Mishra](https://github.com/ANKURGIT25062006)
